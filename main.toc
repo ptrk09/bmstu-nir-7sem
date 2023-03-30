@@ -1,0 +1,27 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{РЕФЕРАТ}{3}{table.caption.1}%
+\contentsline {section}{ОПРЕДЕЛЕНИЯ, ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ}{6}{table.caption.1}%
+\contentsline {section}{ВВЕДЕНИЕ}{7}{Item.4}%
+\contentsline {section}{\numberline {1}Аналитическая часть}{8}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Анализ предметной области}{8}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Цифровое представления аудиоданных}{8}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Анализ форматов хранения аудиоданных}{11}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Необработанные звуковые файлы}{11}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}WAV (WAVE) формат}{11}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}MP4 формат}{12}{subsubsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.4}MP3 формат}{13}{subsubsection.1.3.4}%
+\contentsline {subsubsection}{\numberline {1.3.5}AAC формат}{13}{subsubsection.1.3.5}%
+\contentsline {subsubsection}{\numberline {1.3.6}Сравнение форматов хранения аудиоданных}{14}{subsubsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.4}Анализ протоколов передачи потоковых данных}{14}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}HLS (HTTP Live Streaming)}{15}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Low-Latency HLS}{16}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}RTSP (Real-Time Streaming Protocol)}{16}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Сравнение протоколов передачи потоковых данных}{17}{subsubsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.5}Анализ существующих средств воспроизведения аудиоданных в операционной системе iOS}{18}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Воспроизведение загруженных в оперативную паять аудиоданных}{18}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Воспроизведение аудиоданных с помощью системного сегментатора}{19}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}Воспроизведение аудиоданных с помощью взаимодействия с звуковой картой}{20}{subsubsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}Сравнение средств воспроизведения аудиоданных в операционной системе iOS}{20}{subsubsection.1.5.4}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{22}{table.caption.7}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{23}{table.caption.7}%
+\contentsline {section}{ПРИЛОЖЕНИЕ A}{25}{table.caption.7}%
